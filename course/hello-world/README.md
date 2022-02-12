@@ -62,8 +62,9 @@ $ ./main
 
 ---
 
-[Next Section](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo)
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo">Next Section</a></p>
 
 ---
 
-Course created by [Skwal](https://github.com/SkwalExe/) and inspired by [Dcode](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
+
+<p align="right">Course created by <a href="https://github.com/SkwalExe/" target="_blank">SkwalExe</a> and inspired by <a href="https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL" target="_blank">Dcode</a></p>

@@ -66,11 +66,12 @@ $ cargo run
 
 *And that's how we write an hello world program in rust with cargo !*
 
----
-
-[Next Section](https://github.com/SkwalExe/learn-rust/tree/main/course/variables)
-
 
 ---
 
-Course created by [Skwal](https://github.com/SkwalExe/) and inspired by [Dcode](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/variables">Next Section</a></p>
+
+---
+
+
+<p align="right">Course created by <a href="https://github.com/SkwalExe/" target="_blank">SkwalExe</a> and inspired by <a href="https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL" target="_blank">Dcode</a></p>
