@@ -5,7 +5,7 @@ Before starting to learn a programming language, you need to understand the basi
 
 # Table of Contents
 
-1. [Hello World](https://github.com/SkwalExe/learn-rust/tree/main/hello-world/)
+1. [Hello World](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world/)
     - Declaring a function
     - Calling a function/macro
     - Printing a message
