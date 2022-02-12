@@ -53,8 +53,7 @@ $ ./main
 
 ---
 
-    <a href="https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo/">Next Section</a>
-
+[Next Section](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo)
 
 ---
 
