@@ -1,4 +1,4 @@
-# Learn Rust 
+# Learn Rust [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSkwalExe%2Flearn-rust&text=Started%20learning%20rust%20with%20@SkwalExe%20learn-rust%20project)
 This course was inspired by [Dcode](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
 
 Before starting to learn a programming language, you need to understand the basics of programming, **the algorithmics**.
