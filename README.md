@@ -10,7 +10,10 @@ Before starting to learn a programming language, you need to understand the basi
     - Calling a function/macro
     - Printing a message
     - Compiling and running a program 
-
+1. [Hello World with cargo](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo/)
+    - What is cargo
+    - Creating a new project
+    - Compiling and running a program with cargo
 # final
 If you have any probleme, don't hesitate to open an issue
 # contributing
