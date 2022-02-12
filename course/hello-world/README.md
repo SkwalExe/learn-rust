@@ -49,6 +49,8 @@ $ ./main
 ```
 > `>` : Output of the command
 
+![](1.png)
+
 *And that's how we write an hello world program in rust !*
 
 ---

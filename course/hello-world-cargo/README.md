@@ -46,6 +46,7 @@ This command will compile the program and create an executable file called `hell
 $ ./hello-world-cargo
 > Hello, world!
 ```
+![](1.png)
 ### Compiling and running
 To compile and run the program, we will use the `cargo run` command.
 ```bash
@@ -54,6 +55,7 @@ $ cargo run
 ...
 > Hello, world!
 ```
+![](2.png)
 
 *And that's how we write an hello world program in rust with cargo !*
 
