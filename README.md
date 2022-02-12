@@ -7,13 +7,22 @@ Before starting to learn a programming language, you need to understand the basi
 
 1. [Hello World](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world/)
     - Declaring a function
-    - Calling a function/macro
     - Printing a message
     - Compiling and running a program 
+
 1. [Hello World with cargo](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo/)
     - What is cargo
     - Creating a new project
     - Compiling and running a program with cargo
+        - Just compiling
+        - Compiling and running
+
+1. [Variables](https://github.com/SkwalExe/learn-rust/tree/main/course/variables/)
+    - Declaring a variable
+    - Printing a variable
+    - Modifying a variable
+    - Mutable variables
+
 # final
 If you have any probleme, don't hesitate to open an issue
 # contributing

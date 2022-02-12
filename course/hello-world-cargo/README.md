@@ -1,7 +1,7 @@
 # Hello world with cargo
 ## What is cargo
 Cargo is a **Rust package manager**. It is used to manage dependencies and build Rust projects.
-## Creating a project
+## Creating a new project
 We will create a new project called `hello-world-cargo`, to do this, we will use the following command.
 > the `--bin` parameter flags the project as an application, not a library.
 ```bash
@@ -33,7 +33,7 @@ fn main() {
 }
 ```
 ## Compiling and running a program with cargo
-### Compiling
+### Just compiling
 To compile the program, we will use the `cargo build` command.
 ```bash
 # hello-world-cargo
@@ -58,6 +58,10 @@ $ cargo run
 ![](2.png)
 
 *And that's how we write an hello world program in rust with cargo !*
+
+---
+
+[Next Section](https://github.com/SkwalExe/learn-rust/tree/main/course/variables)
 
 
 ---

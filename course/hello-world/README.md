@@ -1,5 +1,5 @@
 # Hello world 
-## Writing the program
+## Declaring a function
 We will start this course by creating an hello world program with the rust programming language.
 
 We will start by creating a new folder `hello-world` and a file `main.rs` inside it.
@@ -21,6 +21,8 @@ fn main() {
 
 > the lines starting with `//` are comments, they are ignored when executing the program.
 
+## Printing a message
+
 In the function, we will call the `println!` macro to print a message to the console. And we pass the string `Hello, world!` as an argument.
 
 ```rust
@@ -31,7 +33,7 @@ fn main() {
 ```
 
 > All instructions end with a semicolon `;`
-## Running the program
+## Compiling and running a program
 Now that we have coded our program, we will compile it and run it.
 
 to compile the program, we can use the `rustc` command.
