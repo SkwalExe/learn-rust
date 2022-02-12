@@ -57,18 +57,7 @@ $ cargo run
 
 *And that's how we write an hello world program in rust with cargo !*
 
----
-
-<div style="display: flex; justify-content: space-between;">
-<p>
-    <a href="https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world/">Previous Section</a>
-<p>
-    <a style="cursor: poitner; color: gray">Next Section</a>
-</p>
-</div>
 
 ---
 
-<p style="text-align: right">
-    Course created by <a href="https://github.com/SkwalExe/">Skwal</a> and inspired by <a href="https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL">Dcode</a>
-</p>
+Course created by [Skwal](https://github.com/SkwalExe/) and inspired by [Dcode](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)

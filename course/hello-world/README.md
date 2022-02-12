@@ -39,6 +39,7 @@ to compile the program, we can use the `rustc` command.
 ```bash
 $ rustc main.rs
 ```
+> `$` : command
 
 Running this command created an executable file called `main` in the current directory that we can run by typing `./main`.
 
@@ -46,15 +47,15 @@ Running this command created an executable file called `main` in the current dir
 $ ./main
 > Hello, world!
 ```
+> `>` : Output of the command
 
 *And that's how we write an hello world program in rust !*
 
-<p style="text-align: right">
+---
+
     <a href="https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo/">Next Section</a>
-</p>
+
 
 ---
 
-<p style="text-align: right">
-    Course created by <a href="https://github.com/SkwalExe/">Skwal</a> and inspired by <a href="https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL">Dcode</a>
-</p>
+Course created by [Skwal](https://github.com/SkwalExe/) and inspired by [Dcode](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
