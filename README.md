@@ -6,22 +6,22 @@ Before starting to learn a programming language, you need to understand the basi
 # Table of Contents
 
 1. [Hello World](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world/)
-    - Declaring a function
-    - Printing a message
-    - Compiling and running a program 
+    - [Declaring a function](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world/#declaring-a-function)
+    - [Printing a message](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world/#printing-a-message)
+    - [Compiling and running a program](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world/#compiling-and-running-a-program) 
 
 1. [Hello World with cargo](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo/)
-    - What is cargo
-    - Creating a new project
-    - Compiling and running a program with cargo
-        - Just compiling
-        - Compiling and running
+    - [What is cargo](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo#what-is-cargo)
+    - [Creating a new project](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo#creating-a-new-project)
+    - [Compiling and running a program with cargo](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo#compiling-and-running-a-program-with-cargo)
+        - [Just compiling](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo#just-compiling)
+        - [Compiling and running](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo#compiling-and-running)
 
 1. [Variables](https://github.com/SkwalExe/learn-rust/tree/main/course/variables/)
-    - Declaring a variable
-    - Printing a variable
-    - Modifying a variable
-    - Mutable variables
+    - [Declaring a variable](https://github.com/SkwalExe/learn-rust/tree/main/course/variables#declaring-a-variable)
+    - [Printing a variable](https://github.com/SkwalExe/learn-rust/tree/main/course/variables#printing-a-variable)
+    - [Modifying a variable](https://github.com/SkwalExe/learn-rust/tree/main/course/variables#modifying-a-variable)
+    - [Mutable variables](https://github.com/SkwalExe/learn-rust/tree/main/course/variables#mutable-variables)
 
 # final
 If you have any probleme, don't hesitate to open an issue
