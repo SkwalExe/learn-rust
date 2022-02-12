@@ -1,3 +1,10 @@
+# Table of Contents
+- [What is cargo?](#what-is-cargo)
+- [Creating a new project](#creating-a-new-project)
+- [Compiling and running a program with cargo](#compiling-and-running-a-program-with-cargo)
+    - [Just compiling](#just-compiling)
+    - [Compiling and running](#compiling-and-running)
+
 # Hello world with cargo
 ## What is cargo
 Cargo is a **Rust package manager**. It is used to manage dependencies and build Rust projects.

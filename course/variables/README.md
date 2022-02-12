@@ -1,3 +1,9 @@
+# Table of Contents
+- [Declaring a variable](#declaring-a-variable)
+- [Printing a variable](#printing-a-variable)
+- [Modifying a variable](#modifying-a-variable)
+- [Mutable variables](#mutable-variables)
+
 # Variables
 ## Declaring a variable
 To declare a variable, we use the keyword `let` followed by the name of the variable, and the value of the variable.

@@ -1,3 +1,8 @@
+# Table of Contents
+- [Declaring a function](#declaring-a-function)
+- [Printing a message](#printing-a-message)
+- [Compiling and running a program](#compiling-and-running-a-program)
+
 # Hello world 
 ## Declaring a function
 We will start this course by creating an hello world program with the rust programming language.
