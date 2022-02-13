@@ -23,6 +23,10 @@ Before starting to learn a programming language, you need to understand the basi
     - [Modifying a variable](https://github.com/SkwalExe/learn-rust/tree/main/course/variables#modifying-a-variable)
     - [Mutable variables](https://github.com/SkwalExe/learn-rust/tree/main/course/variables#mutable-variables)
 
+1. [Variable data types](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types/)
+    - [What are data types?](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#what-are-data-types)
+    - [Specifying data types](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#specifying-data-types)
+
 # final
 If you have any probleme, don't hesitate to open an issue
 # contributing
