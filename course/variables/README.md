@@ -1,10 +1,10 @@
-# Table of Contents
+# Table of Contents📚
 - [Declaring a variable](#declaring-a-variable)
 - [Printing a variable](#printing-a-variable)
 - [Modifying a variable](#modifying-a-variable)
 - [Mutable variables](#mutable-variables)
 
-# Variables
+# Variables📦
 ## Declaring a variable
 To declare a variable, we use the keyword `let` followed by the name of the variable, and the value of the variable.
 
@@ -39,7 +39,7 @@ let x = 5;
 // modifying the variable
 x = 6;
 ```
-But if we run this program, we will get the following error :
+But if we run this program, we will get the following error ⛔  :
 ![](1.png)
 
 We get this error because, by default, variables are immutable. It means that we can't change their value.

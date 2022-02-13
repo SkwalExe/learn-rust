@@ -1,23 +1,23 @@
-# Table of Contents
+# Table of Contents📚
 - [What is cargo?](#what-is-cargo)
 - [Creating a new project](#creating-a-new-project)
 - [Compiling and running a program with cargo](#compiling-and-running-a-program-with-cargo)
     - [Just compiling](#just-compiling)
     - [Compiling and running](#compiling-and-running)
 
-# Hello world with cargo
+# Hello world with cargo🚢
 ## What is cargo
 Cargo is a **Rust package manager**. It is used to manage dependencies and build Rust projects.
 ## Creating a new project
 We will create a new project called `hello-world-cargo`, to do this, we will use the following command.
-> the `--bin` parameter flags the project as an application, not a library.
+> ℹ️ the `--bin` parameter flags the project as an application, not a library.
 ```bash
 $ cargo new hello-world-cargo --bin
 
 > Created binary (application) `hello-world-cargo` package.
 ```
-This command created a new folder `hello-world-cargo` in the current directory.
-This folder contains a `Cargo.toml` file, a `src` folder and a `main.rs` file.
+This command created a new folder `📂 hello-world-cargo` in the current directory.
+This folder contains a `📄 Cargo.toml` file, a `📂 src` folder and a `📄 main.rs` file.
 
 ```bash
 hello-world-cargo
@@ -31,10 +31,10 @@ hello-world-cargo
 
 It also initialized a git repository for the project.
 
-The `src` folder contains the source code of the application, in it there already is a `main.rs` file containing an hello world program.
+The `📂 src` folder contains the source code of the application, in it there already is a `📄 main.rs` file containing an hello world program.
 
 ```rust
-// main.rs
+// 📄 main.rs
 fn main() {
     println!("Hello, world!");
 }
@@ -43,13 +43,13 @@ fn main() {
 ### Just compiling
 To compile the program, we will use the `cargo build` command.
 ```bash
-# hello-world-cargo
+# hello-world-cargo 📂
 $ cargo build
 ```
-This command will compile the program and create an executable file called `hello-world-cargo` in the new `target/debug` folder.
+This command will compile the program and create an executable file called `📄 hello-world-cargo` in the new `📂 target/debug` folder.
 
 ```bash
-# hello-world-cargo/target/debug
+# hello-world-cargo/target/debug 📂
 $ ./hello-world-cargo
 > Hello, world!
 ```
@@ -57,7 +57,7 @@ $ ./hello-world-cargo
 ### Compiling and running
 To compile and run the program, we will use the `cargo run` command.
 ```bash
-# hello-world-cargo
+# hello-world-cargo 📂
 $ cargo run
 ...
 > Hello, world!
@@ -69,7 +69,7 @@ $ cargo run
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/variables">Next Section</a></p>
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/variables">Next Section ⏭️</a></p>
 
 ---
 
