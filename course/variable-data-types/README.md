@@ -47,11 +47,11 @@ let x: u32 = 1;
 
 
 
-<!--
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements">Next Section ⏭️</a></p>
+
 
 ---
 

@@ -32,8 +32,15 @@ Before starting to learn a programming language, you need to understand the basi
     - [What are data types?](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#what-are-data-types)
     - [Specifying data types](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#specifying-data-types)
 
+1. [if else statements ❓](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements/)
+    - [comparison operators](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#comparison-operators)
+    - [if](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#if)
+    - [else](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#else)
+    - [else if](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#else-if)
+
+
 # Have a question, want to show your project ?
-You can open the Discussion 💬 tab on the top right corner of this page. 
+### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
 # final
 If you have any probleme, don't hesitate to open an issue
