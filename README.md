@@ -33,3 +33,6 @@ Before starting to learn a programming language, you need to understand the basi
 If you have any probleme, don't hesitate to open an issue
 # contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Todo
+- [ ] Add a section about the Rust language
+- [ ] Add installation instructions for macOS
