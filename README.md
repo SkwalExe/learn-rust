@@ -1,4 +1,7 @@
 # Learn Rust 🦀 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSkwalExe%2Flearn-rust&text=Started%20learning%20rust%20with%20@SkwalExe%20learn-rust%20project)
+
+![banner](images/banner.png)
+
 This course was inspired by [Dcode](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
 
 Before starting to learn a programming language, you need to understand the basics of programming, **the algorithmics**. 🤓
@@ -29,6 +32,9 @@ Before starting to learn a programming language, you need to understand the basi
     - [What are data types?](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#what-are-data-types)
     - [Specifying data types](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#specifying-data-types)
 
+# Have a question, want to show your project ?
+You can open the Discussion 💬 tab on the top right corner of this page. 
+![discussion](images/discussions.png)
 # final
 If you have any probleme, don't hesitate to open an issue
 # contributing
