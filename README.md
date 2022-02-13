@@ -4,7 +4,9 @@ This course was inspired by [Dcode](https://www.youtube.com/watch?v=vOMJlQ5B-M0&
 Before starting to learn a programming language, you need to understand the basics of programming, **the algorithmics**. 🤓
 
 # Table of Contents 📚
-
+1. [Installing Rust 🦀](https://github.com/SkwalExe/learn-rust/tree/main/course/installing-rust/)
+    - [Linux 😎](https://github.com/SkwalExe/learn-rust/tree/main/course/installing-rust#linux)
+    - [Windows 💩](https://github.com/SkwalExe/learn-rust/tree/main/course/installing-rust#windows)
 1. [Hello World 👋](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world/)
     - [Declaring a function](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world/#declaring-a-function)
     - [Printing a message 💬](https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world/#printing-a-message)
