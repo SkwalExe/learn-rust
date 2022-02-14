@@ -81,13 +81,13 @@ And with `x = 7`:
 Good night
 ```
 > ℹ️ We can put as many `else if` as we want. The condition of the `else if` will be checked after the condition of the previous `else if`.
- 
 
-<!--
+
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loop">Next Section ⏭️</a></p>
+
 
 ---
 
