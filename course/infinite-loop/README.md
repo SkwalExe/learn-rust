@@ -3,7 +3,7 @@
 - [the break keyword](#the-break-keyword)
 - [the continue keyword](#the-continue-keyword)
 
-# Infinite loop🔁
+# Infinite loop♾️
 ## the loop keyword
 Loops allow us to execute a block of code infinitely until we specify when to stop it.
 For example, we can use the `loop` keyword to print hello infinitely.
@@ -82,14 +82,9 @@ Output:
 5 : Hello
 ```
 
-
-
-
-<!--
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/while-loop">Next Section ⏭️</a></p>
 
 ---
 

@@ -39,7 +39,7 @@ Before starting to learn a programming language, you need to understand the basi
     - [if](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#if)
     - [else](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#else)
     - [else if](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#else-if)
-1. [Infinite loops 🔁](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops/)
+1. [Infinite loops ♾️](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops/)
     - [the loop keyword](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements#the-loop-keyword)
     - [the break keyword](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements#the-break-keyword)
     - [the continue keyword](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements#the-continue-keyword)
