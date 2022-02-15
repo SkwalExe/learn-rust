@@ -6,6 +6,8 @@ This course was inspired by [Dcode](https://www.youtube.com/watch?v=vOMJlQ5B-M0&
 
 Before starting to learn a programming language, you need to understand the basics of programming, **the algorithmics**. 🤓
 
+**Are you french ? This course is available in french [here](https://github.com/SkwalExe/apprendre-rust/)**
+
 # Table of Contents 📚
 1. [Installing Rust 🦀](https://github.com/SkwalExe/learn-rust/tree/main/course/installing-rust/)
     - [Linux 😎](https://github.com/SkwalExe/learn-rust/tree/main/course/installing-rust#linux)
