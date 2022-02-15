@@ -43,8 +43,11 @@ Before starting to learn a programming language, you need to understand the basi
     - [the loop keyword](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements#the-loop-keyword)
     - [the break keyword](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements#the-break-keyword)
     - [the continue keyword](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements#the-continue-keyword)
-    
 
+1. [While loops 🔁](https://github.com/SkwalExe/learn-rust/tree/main/course/while-loops/)
+    - [What is a while loop?](https://github.com/SkwalExe/learn-rust/tree/main/course/while-loops#what-is-a-while-loop)
+    - [The while keyword](https://github.com/SkwalExe/learn-rust/tree/main/course/while-loops#the-while-keyword)
+    - [The break and continue keywords](https://github.com/SkwalExe/learn-rust/tree/main/course/while-loops#the-break-and-continue-keywords)
 
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**

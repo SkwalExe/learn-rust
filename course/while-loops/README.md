@@ -1,4 +1,7 @@
-# Sommaire📚
+# Table of Contents📚
+- [What is a while loop?](#what-is-a-while-loop)
+- [The while keyword](#the-while-keyword)
+- [The break and continue keywords](#the-break-and-continue-keywords)
 
 # While loops🔁
 ## What is a while loop?
