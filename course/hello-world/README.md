@@ -33,7 +33,7 @@ In the function, we will call the `println!` macro to print a message to the con
 ```rust
 // 📄 main.rs
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world 👋");
 }
 ```
 
@@ -52,7 +52,7 @@ Running this command created an executable file called `📄 main` in the curren
 
 ```bash
 $ ./main
-> Hello, world!
+> Hello, world 👋
 ```
 > ℹ️ `>` : Output of the command
 
