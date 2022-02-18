@@ -12,23 +12,23 @@ The `while` keyword is used to create a while loop.
 Example:
 
 ```rust
-let mut count = 0;
+let mut cats = 0;
 
 while count < 5 {
-    println!("{}", count);
+    println!("There are {} cats 🐈", count);
 
     // Increment `count`
     count += 1;
 }
 ```
-While `count` is less than 5, we will print the value of `count` on a new line, and then increment `count` by 1.
+While `cats` is less than 5, we will print the value of `cats` on a new line, and then increment `cats` by 1.
 Output:
 ```
-0
-1
-2
-3
-4
+There are 0 cats 🐈
+There are 1 cats 🐈
+There are 2 cats 🐈
+There are 3 cats 🐈
+There are 4 cats 🐈
 ```
 ## The break and continue keywords🔑
 We can also use the `break` and `continue` keywords as seen in the [Infinite Loop ♾️ Section](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loop).
