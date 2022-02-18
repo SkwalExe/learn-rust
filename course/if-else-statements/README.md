@@ -8,8 +8,7 @@
 ## comparison operators
 The comparison operators are used to compare two values.
 
-
-| Operator | Description |
+| Operator | Description |  
 | -------- | ----------- |
 | == | equal to |
 | != | not equal to |
@@ -28,7 +27,7 @@ We can do that with the `if` statement.
 
 ```rust
 if x > 0 {
-    println!("x is positive");
+    println!("x is positive 👍");
 }
 ```
 The code between the `{}` will be executed because the condition `x > 0` is true.
@@ -39,19 +38,19 @@ Imagine that you are a programmer and you have to write a program that will say 
 To do that, you will first have to check if `x` is equal to 5, and then use the else statement to say goodbye if the condition is not true.
 ```rust
 if x == 5 {
-    println!("Hello");
+    println!("Hello 👋");
 } else {
-    println!("Goodbye");
+    println!("Goodbye 🫂");
 }
 ```
 
 Let's run the code with `x = 5`:
 ```
-Hello
+Hello 👋
 ```
 And with `x = 6`:
 ```
-Goodbye
+Goodbye 🫂
 ```
 ## else if
 It is possible to have more than one condition to be checked.
@@ -60,25 +59,25 @@ Imagine that we want to say hello if `x` is equal to 5, good morning if it is eq
 we can do that with the `else if` statement.
 ```rust
 if x == 5 {
-    println!("Hello");
+    println!("Hello 👋");
 } else if x == 6 {
-    println!("Good morning");
+    println!("Good morning 🌅");
 } else {
-    println!("Good night");
+    println!("Good night 🛌");
 }
 ```
 
 lets run the code with `x = 5`:
 ```
-Hello
+Hello 👋
 ```
 And with `x = 6`:
 ```
-Good morning
+Good morning 🌅
 ```
 And with `x = 7`:
 ```
-Good night
+Good night 🛌
 ```
 > ℹ️ We can put as many `else if` as we want. The condition of the `else if` will be checked after the condition of the previous `else if`.
 
