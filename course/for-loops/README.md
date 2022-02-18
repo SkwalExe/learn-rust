@@ -18,8 +18,6 @@ The `for` keyword is used to create a for loop.
 Example:
 
 ```rust
-let mut count = 0;
-
 for count in 0..5 {
     println!("🔢 -> {}", count);
 }
