@@ -51,7 +51,7 @@ Before starting to learn a programming language, you need to understand the basi
 
 1. [For loops 🔢](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops/)
     - [What is a for loop ❓](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#what-is-a-for-loop)
-    - [The `for` keyword 🔑](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loopsthe-for-keyword)
+    - [The `for` keyword 🔑](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#the-for-keyword)
     - [Vector iteration](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#vector-iteration)
         - [What is a vector❓](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#what-is-a-vector)
         - [Declaring a vector](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#declaring-a-vector)
