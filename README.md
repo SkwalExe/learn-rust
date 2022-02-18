@@ -35,10 +35,11 @@ Before starting to learn a programming language, you need to understand the basi
     - [Specifying data types](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#specifying-data-types)
 
 1. [if else statements ❓](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements/)
-    - [comparison operators](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#comparison-operators)
-    - [if](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#if)
-    - [else](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#else)
-    - [else if](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#else-if)
+    - [comparison operators](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements#comparison-operators)
+    - [if](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements#if)
+    - [else](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements#else)
+    - [else if](https://github.com/SkwalExe/learn-rust/tree/main/course/if-else-statements#else-if)
+
 1. [Infinite loops ♾️](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops/)
     - [the loop keyword ♾️](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops#the-loop-keyword️)
     - [the break keyword 🛑](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops#the-break-keyword)
