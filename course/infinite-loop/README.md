@@ -9,18 +9,18 @@ Loops allow us to execute a block of code infinitely until we specify when to st
 For example, we can use the `loop` keyword to print hello infinitely.
 ```rust
 loop {
-    println!("Hello");
+    println!("Hello 🌍");
 }
 ```
 Output:
 ```
-Hello
-Hello
-Hello
-Hello
-Hello
-Hello
-Hello
+Hello 🌍
+Hello 🌍
+Hello 🌍
+Hello 🌍
+Hello 🌍
+Hello 🌍
+Hello 🌍
 ...
 ```
 ## the break keyword🛑
@@ -30,7 +30,7 @@ Imagine that we want to print hello 5 times, and then stop the execution of the 
 let mut count = 0;
 
 loop {
-    println!("Hello");
+    println!("Hello 🌍");
     count = count + 1;
 
     if count == 5 {
@@ -42,11 +42,11 @@ We add 1 to the variable `count` each time we print hello, and then when `count`
 
 Output:
 ```
-Hello
-Hello
-Hello
-Hello
-Hello
+Hello 🌍
+Hello 🌍
+Hello 🌍
+Hello 🌍
+Hello 🌍
 ```
 ## the continue keyword➡️
 The `continue` keyword allows us to skip the current iteration of the loop and continue with the next one.
@@ -62,7 +62,7 @@ loop {
         continue;
     }
 
-    println!("{} : Hello", count);
+    println!("Hello, user{} 👋", count);
 
     if count == 5 {
         break;
@@ -76,10 +76,10 @@ We add 1 to the variable `count` each time we print hello, and then when `count`
 
 Output:
 ```
-1 : Hello
-3 : Hello
-4 : Hello
-5 : Hello
+Hello, user1 👋
+Hello, user3 👋
+Hello, user4 👋
+Hello, user5 👋
 ```
 
 ---
