@@ -79,7 +79,7 @@ My 💫 favorite animal 💫 is the 🐕 Dog
 My 💫 favorite animal 💫 is the 🦄 Unicorn
 ```
 > ℹ️ We use the `iter()` method to get an iterator over the vector and to prevent the ownership of the vector from being moved and being able to use it after the loop 
-### Iterating over a vector  with index 🔢
+### Iterating over a vector with index🔢
 It is possible to iterate over a vector knowing the index of the current element.
 
 We can do that with the `enumerate()` method.
