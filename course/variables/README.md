@@ -1,6 +1,6 @@
 # Table of Contents📚
 - [Declaring a variable](#declaring-a-variable)
-- [Printing a variable](#printing-a-variable)
+- [Printing a variable💬](#printing-a-variable)
 - [Modifying a variable](#modifying-a-variable)
 - [Mutable variables](#mutable-variables)
 
@@ -12,7 +12,7 @@ To declare a variable, we use the keyword `let` followed by the name of the vari
 let x = 5;
 ```
 We now have a variable `x` with the value `5`.
-## Printing a variable
+## Printing a variable💬
 We can now use the variable `x` in our program.
 For example, we can print the value of `x`:
 

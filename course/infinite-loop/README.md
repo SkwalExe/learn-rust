@@ -1,10 +1,10 @@
 # Table of Contents📚
-- [the loop keyword](#the-loop-keyword)
-- [the break keyword](#the-break-keyword)
-- [the continue keyword](#the-continue-keyword)
+- [the loop keyword♾️](#the-loop-keyword)
+- [the break keyword🛑](#the-break-keyword)
+- [the continue keyword➡️](#the-continue-keyword)
 
 # Infinite loop♾️
-## the loop keyword
+## the loop keyword♾️
 Loops allow us to execute a block of code infinitely until we specify when to stop it.
 For example, we can use the `loop` keyword to print hello infinitely.
 ```rust
@@ -23,7 +23,7 @@ Hello
 Hello
 ...
 ```
-## the break keyword
+## the break keyword🛑
 The `break` keyword allows us to stop the execution of a loop.
 Imagine that we want to print hello 5 times, and then stop the execution of the loop.
 ```rust
@@ -48,7 +48,7 @@ Hello
 Hello
 Hello
 ```
-## the continue keyword
+## the continue keyword➡️
 The `continue` keyword allows us to skip the current iteration of the loop and continue with the next one.
 > ℹ️ an iteration is a single execution of the loop body.
 Imagine that we want to print hello 5 times, but we want to skip the second one.

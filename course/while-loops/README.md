@@ -1,12 +1,12 @@
 # Table of Contents📚
-- [What is a while loop?](#what-is-a-while-loop)
-- [The while keyword](#the-while-keyword)
-- [The break and continue keywords](#the-break-and-continue-keywords)
+- [What is a while loop❓](#what-is-a-while-loop)
+- [The while keyword🔁](#the-while-keyword)
+- [The break and continue keywords🔑](#the-break-and-continue-keywords)
 
 # While loops🔁
-## What is a while loop?
+## What is a while loop❓
 While loop are used to execute a block of code as long as a condition is true.
-## The while keyword
+## The while keyword🔁
 The `while` keyword is used to create a while loop. 
 
 Example:
@@ -30,7 +30,7 @@ Output:
 3
 4
 ```
-## The break and continue keywords
+## The break and continue keywords🔑
 We can also use the `break` and `continue` keywords as seen in the [Infinite Loop ♾️ Section](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loop).
 
 

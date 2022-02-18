@@ -1,9 +1,9 @@
 # Table of Contents📚
-- [What are data types?](#what-are-data-types)
+- [What are data types❓](#what-are-data-types)
 - [Specifying data types](#specifying-data-types)
 
 # Variable data types 
-## What are data types?
+## What are data types❓
 When we declare a variable, for example :
 ```rust
 let x = 5;

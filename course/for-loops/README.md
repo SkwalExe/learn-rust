@@ -1,18 +1,18 @@
 # Table of Contents📚
-- [What is a for loop?](#what-is-a-for-loop)
-- [The `for` keyword](#the-for-keyword)
+- [What is a for loop ❓](#what-is-a-for-loop)
+- [The `for` keyword 🔑](#the-for-keyword)
 - [Vector iteration](#vector-iteration)
-    - [What is a vector?](#what-is-a-vector)
+    - [What is a vector ❓](#what-is-a-vector)
     - [Declaring a vector](#declaring-a-vector)
     - [Iterating over a vector](#iterating-over-a-vector)
-    - [Iterating over a vector with index](#iterating-over-a-vector-with-index)
+    - [Iterating over a vector with index 🔢](#iterating-over-a-vector-with-index)
 
 
 # For loops🔢
-## What is a for loop?
+## What is a for loop❓
 For loops are used to iterate over a given sequence.
 
-## The for keyword
+## The for keyword🔑
 The `for` keyword is used to create a for loop.
 
 Example:
@@ -53,7 +53,7 @@ Output:
 4
 ```
 ## Vector iteration
-### What is a vector?
+### What is a vector❓
 A vector is a group of values that can be iterated over.
 ### Declaring a vector
 A vector can be declared with the `vec!` macro and the values separated by commas.
@@ -79,7 +79,7 @@ two
 three
 ```
 > ℹ️ We use the `iter()` method to get an iterator over the vector and to prevent the ownership of the vector from being moved and being able to use it after the loop 
-### Iterating over a vector with index
+### Iterating over a vector  with index 🔢
 It is possible to iterate over a vector knowing the index of the current element.
 
 We can do that with the `enumerate()` method.

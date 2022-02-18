@@ -1,7 +1,7 @@
 # Table of Contents📚
 - [Declaring a function](#declaring-a-function)
-- [Printing a message](#printing-a-message)
-- [Compiling and running a program](#compiling-and-running-a-program)
+- [Printing a message 💬](#printing-a-message)
+- [Compiling and running a program🏃](#compiling-and-running-a-program)
 
 # Hello world👋
 ## Declaring a function
@@ -38,7 +38,7 @@ fn main() {
 ```
 
 > ℹ️ All instructions end with a semicolon `;`
-## Compiling and running a program
+## Compiling and running a program🏃
 Now that we have coded our program, we will compile it and run it.
 
 to compile the program, we can use the `rustc` command.
