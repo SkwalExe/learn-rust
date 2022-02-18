@@ -14,12 +14,12 @@ The value of `x` is `5`, and `5` is, of course, a number. But more precisely, `5
 
 There are many other data types in Rust. 
 ```
-i8, i16...  -> signed integers
-u8, u16...  -> unsigned integers
-f32, f64    -> floating point numbers
-char        -> a single character
-bool        -> either true or false
-String      -> a sequence of characters
+i8, i16...  -> signed integers 🔢 
+u8, u16...  -> unsigned integers 🔢 
+f32, f64    -> floating point numbers 🔢 
+char        -> a single character 🔤
+bool        -> either true or false 👍👎
+String      -> a sequence of characters ✍️
 ```
 
 ## Specifying data types
