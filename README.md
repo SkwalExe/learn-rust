@@ -40,9 +40,9 @@ Before starting to learn a programming language, you need to understand the basi
     - [else](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#else)
     - [else if](https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types#else-if)
 1. [Infinite loops ♾️](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops/)
-    - [the loop keyword ♾️](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops#the-loop-keyword)
+    - [the loop keyword ♾️](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops#the-loop-keyword️)
     - [the break keyword 🛑](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops#the-break-keyword)
-    - [the continue keyword ➡️](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops#the-continue-keyword)
+    - [the continue keyword ➡️](https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops#the-continue-keyword️)
 
 1. [While loops 🔁](https://github.com/SkwalExe/learn-rust/tree/main/course/while-loops/)
     - [What is a while loop ❓](https://github.com/SkwalExe/learn-rust/tree/main/course/while-loops#what-is-a-while-loop)
