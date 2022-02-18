@@ -35,11 +35,11 @@ We can also use the `break` and `continue` keywords as seen in the [Infinite Loo
 
 
 
-<!--
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops">Next Section ⏭️</a></p>
+
 
 ---
 

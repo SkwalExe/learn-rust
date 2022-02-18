@@ -49,6 +49,16 @@ Before starting to learn a programming language, you need to understand the basi
     - [The while keyword](https://github.com/SkwalExe/learn-rust/tree/main/course/while-loops#the-while-keyword)
     - [The break and continue keywords](https://github.com/SkwalExe/learn-rust/tree/main/course/while-loops#the-break-and-continue-keywords)
 
+1. [For loops 🔢](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops/)
+    - [What is a for loop?](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#what-is-a-for-loop)
+    - [The `for` keyword](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loopsthe-for-keyword)
+    - [Vector iteration](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#vector-iteration)
+        - [What is a vector?](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#what-is-a-vector)
+        - [Declaring a vector](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#declaring-a-vector)
+        - [Iterating over a vector](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#iterating-over-a-vector)
+        - [Iterating over a vector with index](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#iterating-over-a-vector-with-index)
+
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
