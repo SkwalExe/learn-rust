@@ -36,7 +36,7 @@ The `📂 src` folder contains the source code of the application, in it there a
 ```rust
 // 📄 main.rs
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world 👋");
 }
 ```
 ## Compiling and running a program with cargo🏃
@@ -51,7 +51,7 @@ This command will compile the program and create an executable file called `📄
 ```bash
 # hello-world-cargo/target/debug 📂
 $ ./hello-world-cargo
-> Hello, world!
+> Hello, world 👋
 ```
 ![](1.png)
 ### Compiling and running🏃
@@ -60,7 +60,7 @@ To compile and run the program, we will use the `cargo run` command.
 # hello-world-cargo 📂
 $ cargo run
 ...
-> Hello, world!
+> Hello, world 👋
 ```
 ![](2.png)
 
