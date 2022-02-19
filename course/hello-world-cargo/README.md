@@ -39,6 +39,19 @@ fn main() {
     println!("Hello, world 👋");
 }
 ```
+
+
+| File | Description |
+| --- | --- |
+| `📄 Cargo.toml` | The Cargo manifest file, this file contains all the dependencies and the application name. |
+| `📂 src` | The source folder, this folder contains the source code of the application. |
+| `📄 main.rs` | The main file, this file contains the source code of the application. |
+| `📂 .git` | The git folder, this folder contains all the git files, you can ignore this folder if you don't use git. |
+| `📄 .gitignore` | The git ignore file, this file contains all the files that should be ignored when committing. |
+
+
+
+
 ## Compiling and running a program with cargo🏃
 ### Just compiling
 To compile the program, we will use the `cargo build` command.
@@ -64,7 +77,6 @@ $ cargo run
 ```
 ![](2.png)
 
-*And that's how we write an hello world program in rust with cargo !*
 
 
 ---
