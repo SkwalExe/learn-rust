@@ -7,7 +7,7 @@
 ## Declaring a function
 We will start this course by creating an hello world program with the rust 🦀 programming language.
 
-We will start by creating a new folder `📂 hello-world` and a file `📄 main.rs` inside it.
+First, we create a new folder `📂 hello-world` and a file `📄 main.rs` inside it.
 
 > ℹ️ `.rs` is the extension for rust files.
 
@@ -57,8 +57,6 @@ $ ./main
 > ℹ️ `>` : Output of the command
 
 ![](1.png)
-
-*And that's how we write an hello world program in rust !*
 
 ---
 
