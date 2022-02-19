@@ -59,6 +59,14 @@ Before starting to learn a programming language, you need to understand the basi
         - [Iterating over a vector](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#iterating-over-a-vector)
         - [Iterating over a vector with index 🔢](https://github.com/SkwalExe/learn-rust/tree/main/course/for-loops#iterating-over-a-vector-with-index)
 
+1. [Enum types](https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types/)
+    - [What is an enum type ❓](https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types#what-is-an-enum-type)
+    - [Declaring an enum type](https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types#declaring-an-enum-type)
+    - [Matching on an enum](https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types#matching-on-an-enum)
+        - [What is a match expression ❓](https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types#what-is-a-match-expression)
+        - [Usage](https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types#usage)
+        - [Matching on an enum](https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types#matching-on-an-enum)
+        
 
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
