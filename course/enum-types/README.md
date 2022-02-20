@@ -22,7 +22,7 @@ enum Animal {
     Unicorn,
 }
 ```
-> ℹ️ The enum name is conventionally capitalized.
+> ℹ️ The enum and variants name are conventionally capitalized.
 
 We can now use the enum to create a variable of type `Animal`.
 ```rust
