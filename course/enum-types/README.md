@@ -13,6 +13,7 @@ Enums are a way to express your code in a descriptive and simple way.
 They are a way to group related values together.
 ## Declaring an enum type
 An enum can be declared with the `enum` keyword, followed by the name of the enum, and then a list of variants.
+> ℹ️ **The enums have to be declared out of the main function.**
 
 Example:
 ```rust
@@ -20,6 +21,10 @@ enum Animal {
     Monkey,
     Dog,
     Unicorn,
+}
+
+fn main() {
+    ///
 }
 ```
 > ℹ️ The enum and variants name are conventionally capitalized.
