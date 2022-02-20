@@ -70,11 +70,10 @@ match animal {
 | Other | 🤖 |
 
 
-<!--
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/constants">Next Section ⏭️</a></p>
+
 
 ---
 

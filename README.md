@@ -66,7 +66,11 @@ Before starting to learn a programming language, you need to understand the basi
         - [What is a match expression ❓](https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types#what-is-a-match-expression)
         - [Usage](https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types#usage)
         - [Matching on an enum](https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types#matching-on-an-enum)
-        
+
+1. [Constants](https://github.com/SkwalExe/learn-rust/tree/main/course/constants/)
+    - [What is a constant ❓](https://github.com/SkwalExe/learn-rust/tree/main/course/constants#what-is-a-constant)
+    - [Declaring a constant](https://github.com/SkwalExe/learn-rust/tree/main/course/constants#declaring-a-constant)
+    - [Using a constant](https://github.com/SkwalExe/learn-rust/tree/main/course/constants#using-a-constant)
 
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
