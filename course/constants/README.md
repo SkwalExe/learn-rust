@@ -6,7 +6,7 @@
 
 # Constants
 ## What is a constant❓
-A constant is like a value that can't be changed.
+A constant is like a variable that can't be changed.
 ## Declaring a constant 
 A constant can be declared with the `const` keyword, followed by the name of the constant, **the type**, and then the value of the constant. **The type of the constant have to be specified.**
 > ℹ️ The constant name is conventionally capitalized, to know that it is a constant.
