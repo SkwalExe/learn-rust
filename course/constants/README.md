@@ -43,7 +43,6 @@ Output:
 7
 8
 9
-10
 ```
 
 Since we are using a constant, we can't change its value, if we do, we will get the following error:
