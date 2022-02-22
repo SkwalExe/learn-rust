@@ -72,6 +72,12 @@ Before starting to learn a programming language, you need to understand the basi
     - [Declaring a constant](https://github.com/SkwalExe/learn-rust/tree/main/course/constants#declaring-a-constant)
     - [Using a constant](https://github.com/SkwalExe/learn-rust/tree/main/course/constants#using-a-constant)
 
+1. [Tuples](https://github.com/SkwalExe/learn-rust/tree/main/course/tuples/)
+    - [What is a tuple ❓](https://github.com/SkwalExe/learn-rust/tree/main/course/tuples#what-is-a-tuple)
+    - [Declaring a tuple](https://github.com/SkwalExe/learn-rust/tree/main/course/tuples#declaring-a-tuple)
+    - [Accessing a tuple](https://github.com/SkwalExe/learn-rust/tree/main/course/tuples#accessing-a-tuple)
+    - [Extracting values from a tuple 🚪](https://github.com/SkwalExe/learn-rust/tree/main/course/tuples#extracting-values-from-a-tuple)
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
