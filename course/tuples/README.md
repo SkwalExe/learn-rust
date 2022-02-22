@@ -13,7 +13,7 @@ A tuple is a collection of values that can be of different types.
 ## Declaring a tuple
 A tuple can be declared with the following syntax:
 ```rust
-let tuple = ("🦍 Gorilla", "🦊 Fox", "🦓 Zebra", "🐘 Elephant");
+let zoo = ("🦍 Gorilla", "🦊 Fox", "🦓 Zebra", "🐘 Elephant");
 ```
 ## Accessing a tuple
 We can access different values in a tuple with the following syntax: `tuple.index`
