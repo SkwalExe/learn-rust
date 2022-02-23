@@ -78,6 +78,10 @@ Before starting to learn a programming language, you need to understand the basi
     - [Accessing a tuple](https://github.com/SkwalExe/learn-rust/tree/main/course/tuples#accessing-a-tuple)
     - [Extracting values from a tuple 🚪](https://github.com/SkwalExe/learn-rust/tree/main/course/tuples#extracting-values-from-a-tuple)
 
+1. [Functions 🛠️](https://github.com/SkwalExe/learn-rust/tree/main/course/functions/)
+    - [What is a function❓](https://github.com/SkwalExe/learn-rust/tree/main/course/functions#what-is-a-function)
+    - [Declaring a function](https://github.com/SkwalExe/learn-rust/tree/main/course/functions#declaring-a-function)
+    - [Returning values](https://github.com/SkwalExe/learn-rust/tree/main/course/functions#returning-values)
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)

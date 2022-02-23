@@ -43,11 +43,11 @@ In the zoo, there is a 🦍 Gorilla, a 🦊 Fox, a 🦓 Zebra, and an 🐘 Eleph
 ```
 
 
-<!--
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/constants">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/functions">Next Section ⏭️</a></p>
+
 
 ---
 
