@@ -15,7 +15,7 @@ fn function_name(param1: Type, param2: Type) {
 }
 ```
 
-Exemple, write a function that says `🔔 TIME TO EAAT` x times:
+Exemple, write a function called `hello` that says `🔔 TIME TO EAAT` x times:
 ```rust
 fn hello(x: i32) {
     for _ in 0..x {
@@ -45,12 +45,12 @@ fn is_even(x: i32) -> bool {
    return x % 2 == 0
 }
 ```
-> ℹ️ We can specify the return type of a function with the `->`  after the function name and parameters.
+> ℹ️ We **have to** specify the return type of a function with the `->`  after the function name and parameters.
 
 The `%` operator is called the modulo operator. It returns the remainder of an euclidean division.
 So if we have a number `x` and we want to know if it is even, we can use the modulo operator to check if the ramainder of its euclidiand division by 2 is 0.
 
-We can now use the `is_even` function to print even numbers from 1 to 10:
+We can now use the `isEven` function to print even numbers from 1 to 10:
 ```rust
 fn main() {
     for i in 1..11 {
@@ -68,12 +68,6 @@ Output:
 8 is even
 10 is even
 ```
-
-
-
-
-
-
 
 <!--
 ---
