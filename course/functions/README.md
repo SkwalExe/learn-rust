@@ -69,11 +69,10 @@ Output:
 10 is even
 ```
 
-<!--
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/functions">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/code-blocks">Next Section ⏭️</a></p>
+
 
 ---
 
