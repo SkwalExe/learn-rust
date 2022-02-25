@@ -87,8 +87,9 @@ Before starting to learn a programming language, you need to understand the basi
     - [What is a code block ❓](https://github.com/SkwalExe/learn-rust/tree/main/course/code-blocks/#what-is-a-code-block)
     - [Usage](https://github.com/SkwalExe/learn-rust/tree/main/course/code-blocks/#usage)
 
-
-
+1. [Shadowing 👥](https://github.com/SkwalExe/learn-rust/tree/main/course/shadowing/)
+    - [What is shadowing❓](https://github.com/SkwalExe/learn-rust/tree/main/course/shadowing#what-is-shadowing)
+    - [Usage](https://github.com/SkwalExe/learn-rust/tree/main/course/shadowing#usage)
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)

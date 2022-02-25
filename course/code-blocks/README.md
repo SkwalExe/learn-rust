@@ -20,7 +20,7 @@ Output:
 I have the First sock 🧦 and the Second sock 🧦
 ```
 
-Everything is working as expected, bur now, let's try to print the values of `sock1` and `sock2` outside the code block:
+Everything is working as expected, but now, let's try to print the values of `sock1` and `sock2` outside the code block:
 ```rust
 let sock1 = "First sock 🧦";
 
@@ -28,20 +28,19 @@ let sock1 = "First sock 🧦";
     let sock2 = "Second sock 🧦";
 }
 
-    println!("I have the {} and the {}", sock1, sock2);
-
+println!("I have the {} and the {}", sock1, sock2);
 ```
 Output:
+
 ![](1.png)
 
 We get the following error because `sock2` is not defined outside the code block
 
 So the second sock disappears when the code block ends.
-<!--
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/code-blocks">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/
 
 ---
 
