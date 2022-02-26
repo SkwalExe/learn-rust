@@ -39,7 +39,7 @@ The `&` symbol means that we want to get a reference to the variable next to it.
 
 So now, the variable `Dom` is a reference to `Domenic`.
 
-## How tu use a reference🤹
+## How to use a reference🤹
 You can use a reference to access the value of the variable.
 For example, if you want to print the value of the variable `dom`, you can do it like this:
 ```rust
@@ -93,7 +93,7 @@ To modify the value of the variable `Domenic`, we need to use the `*` symbol bef
 *dom = "Doggo 🐶";
 ```
 
-Because `*dom` means that we are referring the the **value** of `domenic` not the value of `dom`.
+Because `*dom` means that we are referring to the **value** of `domenic` not the value of `dom`.
 
 ## Warning⚠️
 ### Firstly
