@@ -90,6 +90,19 @@ Before starting to learn a programming language, you need to understand the basi
 1. [Shadowing 👥](https://github.com/SkwalExe/learn-rust/tree/main/course/shadowing/)
     - [What is shadowing❓](https://github.com/SkwalExe/learn-rust/tree/main/course/shadowing#what-is-shadowing)
     - [Usage](https://github.com/SkwalExe/learn-rust/tree/main/course/shadowing#usage)
+
+1. [References 🔗](https://github.com/SkwalExe/learn-rust/tree/main/course/references/)
+    - [What is a reference ❔](https://github.com/SkwalExe/learn-rust/tree/main/course/references#what-is-a-reference)
+    - [How to create a reference ❔](https://github.com/SkwalExe/learn-rust/tree/main/course/references#how-to-create-a-reference)
+    - [How to use a reference 🤹](https://github.com/SkwalExe/learn-rust/tree/main/course/references#how-to-use-a-reference)
+    - [Modifying a reference ✏️](https://github.com/SkwalExe/learn-rust/tree/main/course/references#modifying-a-reference)
+        - [Firstly](https://github.com/SkwalExe/learn-rust/tree/main/course/references#firstly)
+        - [Secondly](https://github.com/SkwalExe/learn-rust/tree/main/course/references#secondly)
+    - [Warning ⚠️](https://github.com/SkwalExe/learn-rust/tree/main/course/references#warning)
+        - [Firstly](https://github.com/SkwalExe/learn-rust/tree/main/course/references#firstly)
+        - [Secondly](https://github.com/SkwalExe/learn-rust/tree/main/course/references#secondly)
+
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
