@@ -102,6 +102,11 @@ Before starting to learn a programming language, you need to understand the basi
         - [Firstly](https://github.com/SkwalExe/learn-rust/tree/main/course/references#firstly)
         - [Secondly](https://github.com/SkwalExe/learn-rust/tree/main/course/references#secondly)
 
+1. [Structs 🧱](https://github.com/SkwalExe/learn-rust/tree/main/course/structs/)
+    - [What is a struct ❔](https://github.com/SkwalExe/learn-rust/tree/main/course/structs#what-is-a-struct)
+    - [How to create a struct ❔](https://github.com/SkwalExe/learn-rust/tree/main/course/structs#how-to-create-a-struct)
+    - [How to use a struct 🤹](https://github.com/SkwalExe/learn-rust/tree/main/course/structs#how-to-use-a-struct)
+    - [Modifying a struct ✏️](https://github.com/SkwalExe/learn-rust/tree/main/course/structs#modifying-a-struct)
 
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**

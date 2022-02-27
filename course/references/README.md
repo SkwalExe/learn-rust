@@ -111,11 +111,10 @@ println!("The username is : {}", username);
 
 We will encounter an error because the `println!` macro borrows the variable `username` and we already have a mutable reference to it.
 
-<!--
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/references">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/structs">Next Section ⏭️</a></p>
+
 
 ---
 
