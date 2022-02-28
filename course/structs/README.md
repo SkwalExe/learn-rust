@@ -12,7 +12,7 @@ Structs are a way to group related data together in a data type.
 We know that an user can have a username, and an email.
 So we can create a struct to represent this data instead of having two variables.
 
-To create a struct, we use the keyword `struct` and then the name of the struct.
+To create a struct, we use the keyword `struct` and then the name of the struct capitalized.
 ```rust
 struct User {
     username: str,
@@ -21,7 +21,7 @@ struct User {
 ```
 > ℹ️ structs are declared outside the main function.
 
-> ℹ️ structs names are capitalized.
+> ℹ️ We have to specify the type of the  variables inside the struct.
 
 ## How to use a struct🤹
 Now that we have a struct we can create an `instance` of it.
@@ -61,11 +61,11 @@ New username : Bob 2.0 🐠
 ```
 
 
-<!--
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/structs">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/tuple-structs">Next Section ⏭️</a></p>
+
 
 ---
 

@@ -108,6 +108,12 @@ Before starting to learn a programming language, you need to understand the basi
     - [How to use a struct 🤹](https://github.com/SkwalExe/learn-rust/tree/main/course/structs#how-to-use-a-struct)
     - [Modifying a struct ✏️](https://github.com/SkwalExe/learn-rust/tree/main/course/structs#modifying-a-struct)
 
+1. [Tuple structs 🧱](https://github.com/SkwalExe/learn-rust/tree/main/course/tuple-structs/)
+    - [What is a tuple struct ❔](https://github.com/SkwalExe/learn-rust/tree/main/course/tuple-structs#what-is-a-tuple-struct)
+    - [How to create a tuple struct ❔](https://github.com/SkwalExe/learn-rust/tree/main/course/tuple-structs#how-to-create-a-tuple-struct)
+    - [How to use a tuple struct 🤹](https://github.com/SkwalExe/learn-rust/tree/main/course/tuple-structs#how-to-use-a-tuple-struct)
+    - [Modifying a tuple struct ✏️](https://github.com/SkwalExe/learn-rust/tree/main/course/tuple-structs#modifying-a-tuple-struct)
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
