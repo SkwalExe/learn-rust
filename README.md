@@ -114,6 +114,11 @@ Before starting to learn a programming language, you need to understand the basi
     - [How to use a tuple struct 🤹](https://github.com/SkwalExe/learn-rust/tree/main/course/tuple-structs#how-to-use-a-tuple-struct)
     - [Modifying a tuple struct ✏️](https://github.com/SkwalExe/learn-rust/tree/main/course/tuple-structs#modifying-a-tuple-struct)
 
+1. [Pass by reference 🖇️](https://github.com/SkwalExe/learn-rust/tree/main/course/pass-by-reference/)
+    - [The problem ❌](https://github.com/SkwalExe/learn-rust/tree/main/course/pass-by-reference/#the-problem)
+    - [The solution 💡](https://github.com/SkwalExe/learn-rust/tree/main/course/pass-by-reference/#the-solution)
+
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)

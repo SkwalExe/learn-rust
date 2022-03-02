@@ -41,11 +41,11 @@ let mut black = Color(0, 0, 0);
 black.0 = 255;
 ```
 
-<!--
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/structs">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/pass-by-reference">Next Section ⏭️</a></p>
+
 
 ---
 
