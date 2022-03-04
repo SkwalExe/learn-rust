@@ -220,3 +220,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Todo
 - [ ] Add a section about the Rust language
 - [ ] Add installation instructions for macOS
+
+<a href="https://github.com/SkwalExe#ukraine"><img src="https://raw.githubusercontent.com/SkwalExe/SkwalExe/main/ukraine.jpg" width="100%" height="15px" /></a>
