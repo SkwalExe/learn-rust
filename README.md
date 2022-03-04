@@ -195,6 +195,21 @@ Before starting to learn a programming language, you need to understand the basi
 
 </details>
 
+
+<details>
+    <summary>20 - <a href="https://github.com/SkwalExe/learn-rust/tree/main/course/arrays" >Arrays 📜</a></summary>
+
+- [What is an array ❔](https://github.com/SkwalExe/learn-rust/tree/main/course/arrays#what-is-an-array)
+- [Declaring an array](https://github.com/SkwalExe/learn-rust/tree/main/course/arrays#declaring-an-array)
+- [Accessing an array](https://github.com/SkwalExe/learn-rust/tree/main/course/arrays#accessing-an-array)
+- [Iterating over an array 🔁](https://github.com/SkwalExe/learn-rust/tree/main/course/arrays#iterating-over-an-array)
+    - [With the `iter` method](https://github.com/SkwalExe/learn-rust/tree/main/course/arrays#with-the-iter-method)
+    - [With the length of the array](https://github.com/SkwalExe/learn-rust/tree/main/course/arrays#with-the-length-of-the-array)
+- [Specifying the type and the length of an array](https://github.com/SkwalExe/learn-rust/tree/main/course/arrays#specifying-the-type-and-the-length-of-an-array)
+- [Default values for arrays](https://github.com/SkwalExe/learn-rust/tree/main/course/arrays#default-values-for-arrays)
+
+</details>
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
