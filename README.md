@@ -210,6 +210,15 @@ Before starting to learn a programming language, you need to understand the basi
 
 </details>
 
+<details>
+    <summary>21 - <a href="https://github.com/SkwalExe/learn-rust/tree/main/course/struct-methods" >Struct methods 🛠️</a></summary>
+
+- [What is a struct method❔](https://github.com/SkwalExe/learn-rust/tree/main/course/struct-methods#what-is-a-struct-method)
+- [The `impl` keyword](https://github.com/SkwalExe/learn-rust/tree/main/course/struct-methods#the-impl-keyword)
+- [Multiple methods](https://github.com/SkwalExe/learn-rust/tree/main/course/struct-methods#multiple-methods)
+
+</details>
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
