@@ -65,13 +65,13 @@ let objects_array: [str; 5] = ["👓", "👕", "🧽", "🩴", "🧲"];
 ## Default values for arrays
 We can create an array, we can fill a specific range of indexes with a default value.
 ```rust
-let a_hundred_penguins = ['🐧'; 20];
+let penguins_army = ['🐧'; 20];
 ```
 We just created an array of 20 penguins.
 
 To see what our array looks like, we will have to use a different jocker in the println! statement.
 ```rust
-println!("{:?}", a_hundred_penguins);
+println!("{:?}", penguins_army);
 ```
 > ℹ️ The `:?` is a jocker that prints the array like we would see it in the code.
 
