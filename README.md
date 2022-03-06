@@ -219,6 +219,19 @@ Before starting to learn a programming language, you need to understand the basi
 
 </details>
 
+<details>
+    <summary>22 - <a href="https://github.com/SkwalExe/learn-rust/tree/main/course/strings" >Strings 📝</a></summary>
+
+    
+- [What is a string❔](https://github.com/SkwalExe/learn-rust/tree/main/course/strings#what-is-a-string)
+- [`len` method](https://github.com/SkwalExe/learn-rust/tree/main/course/strings#len-method)
+- [`is_empty` method](https://github.com/SkwalExe/learn-rust/tree/main/course/strings#is_empty-method)
+- [`split_whitespace` method](https://github.com/SkwalExe/learn-rust/tree/main/course/strings#split_whitespace-method)
+- [`contains` method](https://github.com/SkwalExe/learn-rust/tree/main/course/strings#contains-method)
+- [`push_str` method](https://github.com/SkwalExe/learn-rust/tree/main/course/strings#push_str-method)
+
+</details>
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
