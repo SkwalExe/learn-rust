@@ -19,7 +19,7 @@ In this section, we will be referring to the type `String`.
 ## `len` method
 The `len` method is used to get the length of a string, it returns an `usize` value.
 ```rust
-let name = String::from"Léopold");
+let name = String::from("Léopold");
 
 println!("My name has {} characters", name.len());
 ```
@@ -30,8 +30,8 @@ My name has 8 characters
 ## `is_empty` method
 The `is_empty` method is used to check if a string is empty, it returns a `bool` value.
 ```rust
-let name = String::from"Léopold");
-let empty = String::from"");
+let name = String::from("Léopold");
+let empty = String::from("");
 
 if name.is_empty() { // check if name is an empty string
     println!("'{}' is empty", name);
@@ -53,9 +53,9 @@ Output:
 ## `split_whitespace` method
 The `split_whitespace` method is used to split a string into substrings, it returns an iterator so we can iterate over the substrings.
 ```rust
-let name = String::from("Hello world");
+let text = String::from("Hello world");
 
-for word in name.split_whitespace() {
+for word in text.split_whitespace() {
     println!("Word : {}", word);
 }
 ```
@@ -67,12 +67,12 @@ Word : world
 ## `contains` method
 The `contains` method is used to check if a string contains a substring, it returns a `bool` value.
 ```rust
-let name = String::from"Hello world");
+let text = String::from("Hello world");
 
-if name.contains("world") {
-    println!("'{}' contains 'world' ✅", name);
+if text.contains("world") {
+    println!("'{}' contains 'world' ✅", text);
 } else {
-    println!("'{}' does not contain 'world' ⛔", name);
+    println!("'{}' does not contain 'world' ⛔", text);
 }
 ```
 Output:
