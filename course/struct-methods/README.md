@@ -31,6 +31,8 @@ impl Person {
 ```
 > ℹ️ The function takes the `&self` parameter, that corresponds to the struct instance that we want to use the method on.
 
+> ℹ️ The join method is a method that joins the items of a vector with a separator to create a string.
+
 We can now create a new instance of the struct and use the method.
 ```rust
 fn main() {
