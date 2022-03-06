@@ -21,7 +21,7 @@ struct Person {
 
 We can create a method for the struct that will introduce the person.
 
-To declare a method for a struct, we use the `impl` keyword.
+To declare methods for a struct, we use the `impl` keyword, like this:
 ```rust
 impl Person {
     fn introduce(&self) {
