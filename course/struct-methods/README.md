@@ -47,7 +47,8 @@ fn main() {
     person.introduce();
 }
 ```
-> ℹ️ The `String::from` is a function that creates a `String` from a string literal. `str` and `String` are different types, but they are both used to represent strings.
+> ℹ️ The `String::from` is a function that creates a `String` from from a `str`. `str` and `String` are different types, but they are both used to represent strings. `String` have a lot of methods, but `str` only have a few. By default, in the code `"hello"`, the type is `str`.
+
 Output:
 ```
 Hi, my name is Léopold, I'm 13 years old and I live in France 🇫🇷. I work at Skwal-net and my hobbies are: 💻, 🛌, 🍔
