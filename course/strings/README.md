@@ -100,11 +100,11 @@ Hello world
 
 
 
-<!--
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/impl-keyword">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/implementing-traits">Next Section ⏭️</a></p>
+
 
 ---
 

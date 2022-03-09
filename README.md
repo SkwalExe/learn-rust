@@ -232,6 +232,15 @@ Before starting to learn a programming language, you need to understand the basi
 
 </details>
 
+<details>
+    <summary>23 - <a href="https://github.com/SkwalExe/learn-rust/tree/main/course/implementing-traits" >Implementing traits</a></summary>
+
+- [What is a trait❔](https://github.com/SkwalExe/learn-rust/tree/main/course/implementing-traits#what-is-a-trait)
+- [Implementing a trait](https://github.com/SkwalExe/learn-rust/tree/main/course/implementing-traits#implementing-a-trait)
+- [Using traits](https://github.com/SkwalExe/learn-rust/tree/main/course/implementing-traits#using-traits)
+  
+</details>
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
