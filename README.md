@@ -241,6 +241,19 @@ Before starting to learn a programming language, you need to understand the basi
   
 </details>
 
+<details>
+    <summary>24 - <a href="https://github.com/SkwalExe/learn-rust/tree/main/course/vectors" >Vectors</a></summary>
+
+- [What is a vector❔](https://github.com/SkwalExe/learn-rust/tree/main/course/vectors#what-is-a-vector)
+- [Declaring a vector](https://github.com/SkwalExe/learn-rust/tree/main/course/vectors#declaring-a-vector)
+- [Declaring a vector with elements](https://github.com/SkwalExe/learn-rust/tree/main/course/vectors#declaring-a-vector-with-elements)
+- [Accessing elements](https://github.com/SkwalExe/learn-rust/tree/main/course/vectors#accessing-elements)
+- [Joining elements](https://github.com/SkwalExe/learn-rust/tree/main/course/vectors#joining-elements)
+- [Pushing elements](https://github.com/SkwalExe/learn-rust/tree/main/course/vectors#pushing-elements)
+- [Removing elements](https://github.com/SkwalExe/learn-rust/tree/main/course/vectors#removing-elements)
+
+</details>
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
