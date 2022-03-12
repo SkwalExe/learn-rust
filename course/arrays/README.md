@@ -1,10 +1,10 @@
 # Table of contents📚
-- [What is an array ❔](#what-is-an-array)
+- [What is an array❔](#what-is-an-array)
 - [Declaring an array](#declaring-an-array)
 - [Accessing an array](#accessing-an-array)
-- [Iterating over an array 🔁](#iterating-over-an-array)
-    - [With the `iter` method](#with-the-iter-method)
-    - [With the length of the array](#with-the-length-of-the-array)
+- [Iterating over an array🔁](#iterating-over-an-array)
+  - [With the iter method](#with-the-iter-method)
+  - [With the length of the array](#with-the-length-of-the-array)
 - [Specifying the type and the length of an array](#specifying-the-type-and-the-length-of-an-array)
 - [Default values for arrays](#default-values-for-arrays)
 
@@ -84,7 +84,7 @@ And we can see that we have an army of penguins 🔫🐧.
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/impl-keyword">Next Section ⏭️</a></p>
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/struct-methods">Next Section ⏭️</a></p>
 
 
 ---

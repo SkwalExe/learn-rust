@@ -1,7 +1,7 @@
 # Table of Contents📚
-- [the loop keyword♾️](#the-loop-keyword)
+- [the loop keyword♾️](#the-loop-keyword️)
 - [the break keyword🛑](#the-break-keyword)
-- [the continue keyword➡️](#the-continue-keyword)
+- [the continue keyword➡️](#the-continue-keyword️)
 
 # Infinite loop♾️
 ## the loop keyword♾️
@@ -84,7 +84,7 @@ Hello, user5 👋
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/while-loop">Next Section ⏭️</a></p>
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/while-loops">Next Section ⏭️</a></p>
 
 ---
 

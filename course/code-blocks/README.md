@@ -1,5 +1,5 @@
 # Table of Contents📚
-- [What is a code block ❓](#what-is-a-code-block)
+- [What is a code block❓](#what-is-a-code-block)
 - [Usage](#usage)
 
 # Code Blocks🟪
@@ -40,7 +40,7 @@ So the second sock disappears when the code block ends.
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/shadowing" target="_blank">Next Section ⏭️</a></p>
 
 ---
 

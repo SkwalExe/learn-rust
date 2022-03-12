@@ -90,11 +90,10 @@ Output:
 Léopold is not an adult ⛔
 ```
 
-<!--
 ---
 
 <p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/strings">Next Section ⏭️</a></p>
--->
+
 
 ---
 

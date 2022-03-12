@@ -85,7 +85,7 @@ Good night 🛌
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loop">Next Section ⏭️</a></p>
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops">Next Section ⏭️</a></p>
 
 
 ---
