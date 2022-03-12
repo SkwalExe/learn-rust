@@ -1,6 +1,6 @@
 # Table of Contents📚
-- [Linux 😎](#linux)
-- [Windows 💩](#windows)
+- [Linux😎](#linux)
+- [Windows💩](#windows)
 
 # Installing Rust
 ## Linux😎
@@ -13,7 +13,7 @@ The Rust installer is available on [Rustup.rs](https://rustup.rs/).
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world">Next Section ⏭️</a></p>
+<p align="right"><a href="../hello-world">Next Section ⏭️</a></p>
 
 ---
 

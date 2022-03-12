@@ -1,5 +1,5 @@
 # Table of Contents📚
-- [What is shadowing❓](#what-is-shadowing)
+- [What is a shadowing❓](#what-is-a-shadowing)
 - [Usage](#usage)
 
 
@@ -47,7 +47,7 @@ My Worm is called Wormy 🪱
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/references">Next Section ⏭️</a></p>
+<p align="right"><a href="../references">Next Section ⏭️</a></p>
 
 ---
 

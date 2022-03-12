@@ -83,7 +83,7 @@ I Rust 💖
 <!--
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/vectors">Next Section ⏭️</a></p>
+<p align="right"><a href="../vectors">Next Section ⏭️</a></p>
 -->
 
 ---

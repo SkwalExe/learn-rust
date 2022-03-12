@@ -2,8 +2,8 @@
 - [What is cargo❓](#what-is-cargo)
 - [Creating a new project🆕](#creating-a-new-project)
 - [Compiling and running a program with cargo🏃](#compiling-and-running-a-program-with-cargo)
-    - [Just compiling](#just-compiling)
-    - [Compiling and running🏃](#compiling-and-running)
+  - [Just compiling](#just-compiling)
+  - [Compiling and running🏃](#compiling-and-running)
 
 # Hello world with cargo🚢
 ## What is cargo❓
@@ -41,13 +41,13 @@ fn main() {
 ```
 
 
-| File | Description |
-| --- | --- |
-| `📄 Cargo.toml` | The Cargo manifest file, this file contains all the dependencies and the application name. |
-| `📂 src` | The source folder, this folder contains the source code of the application. |
-| `📄 main.rs` | The main file, this file contains the source code of the application. |
-| `📂 .git` | The git folder, this folder contains all the git files, you can ignore this folder if you don't use git. |
-| `📄 .gitignore` | The git ignore file, this file contains all the files that should be ignored when committing. |
+| File           | Description                                                                                              |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| `📄 Cargo.toml` | The Cargo manifest file, this file contains all the dependencies and the application name.               |
+| `📂 src`        | The source folder, this folder contains the source code of the application.                              |
+| `📄 main.rs`    | The main file, this file contains the source code of the application.                                    |
+| `📂 .git`       | The git folder, this folder contains all the git files, you can ignore this folder if you don't use git. |
+| `📄 .gitignore` | The git ignore file, this file contains all the files that should be ignored when committing.            |
 
 
 
@@ -81,7 +81,7 @@ $ cargo run
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/variables">Next Section ⏭️</a></p>
+<p align="right"><a href="../variables">Next Section ⏭️</a></p>
 
 ---
 

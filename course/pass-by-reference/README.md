@@ -1,6 +1,6 @@
 # Table of contents📚
-- [The problem ❌](#the-problem)
-- [The solution 💡](#the-solution)
+- [The problem❌](#the-problem)
+- [The solution💡](#the-solution)
 
 # Pass by reference🖇️
 ## The problem❌
@@ -91,7 +91,7 @@ Output:
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/arrays">Next Section ⏭️</a></p>
+<p align="right"><a href="../arrays">Next Section ⏭️</a></p>
 
 
 ---

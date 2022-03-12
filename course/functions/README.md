@@ -71,7 +71,7 @@ Output:
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/code-blocks">Next Section ⏭️</a></p>
+<p align="right"><a href="../code-blocks">Next Section ⏭️</a></p>
 
 
 ---

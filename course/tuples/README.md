@@ -1,8 +1,8 @@
 # Table of Contents📚
-- [What is a tuple ❓](#what-is-a-tuple)
+- [What is a tuple❓](#what-is-a-tuple)
 - [Declaring a tuple](#declaring-a-tuple)
 - [Accessing a tuple](#accessing-a-tuple)
-- [Extracting values from a tuple 🚪](#extracting-values-from-a-tuple)
+- [Extracting values from a tuple🚪](#extracting-values-from-a-tuple)
 
 # Tuples
 ## What is a tuple❓
@@ -46,7 +46,7 @@ In the zoo, there is a 🦍 Gorilla, a 🦊 Fox, a 🦓 Zebra, and an 🐘 Eleph
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/functions">Next Section ⏭️</a></p>
+<p align="right"><a href="../functions">Next Section ⏭️</a></p>
 
 
 ---

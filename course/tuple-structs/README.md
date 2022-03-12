@@ -1,8 +1,8 @@
 # Table of contents📚
-- [What is a tuple struct ❔](#what-is-a-tuple-struct)
-- [How to create a tuple struct ❔](#how-to-create-a-tuple-struct)
-- [How to use a tuple struct 🤹](#how-to-use-a-tuple-struct)
-- [Modifying a tuple struct ✏️](#modifying-a-tuple-struct)
+- [What is a tuple struct❔](#what-is-a-tuple-struct)
+- [How to create a tuple struct❔](#how-to-create-a-tuple-struct)
+- [How to use a tuple struct🤹](#how-to-use-a-tuple-struct)
+- [Modifying a tuple struct✏️](#modifying-a-tuple-struct️)
 
 
 # Tuple structs🧱
@@ -44,7 +44,7 @@ black.0 = 255;
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/pass-by-reference">Next Section ⏭️</a></p>
+<p align="right"><a href="../pass-by-reference">Next Section ⏭️</a></p>
 
 
 ---

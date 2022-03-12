@@ -52,7 +52,7 @@ Since we are using a constant, we can't change its value, if we do, we will get 
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/tuples">Next Section ⏭️</a></p>
+<p align="right"><a href="../tuples">Next Section ⏭️</a></p>
 
 ---
 

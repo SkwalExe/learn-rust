@@ -1,8 +1,8 @@
 # Table of contents📚
-- [What is a struct ❔](#what-is-a-struct)
-- [How to create a struct ❔](#how-to-create-a-struct)
-- [How to use a struct 🤹](#how-to-use-a-struct)
-- [Modifying a struct ✏️](#modifying-a-struct)
+- [What is a struct❔](#what-is-a-struct)
+- [How to create a struct❔](#how-to-create-a-struct)
+- [How to use a struct🤹](#how-to-use-a-struct)
+- [Modifying a struct✏️](#modifying-a-struct️)
 
 
 # Structs🧱
@@ -64,7 +64,7 @@ New username : Bob 2.0 🐠
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/tuple-structs">Next Section ⏭️</a></p>
+<p align="right"><a href="../tuple-structs">Next Section ⏭️</a></p>
 
 
 ---

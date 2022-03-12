@@ -84,7 +84,7 @@ Hello, user5 👋
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/while-loops">Next Section ⏭️</a></p>
+<p align="right"><a href="../while-loops">Next Section ⏭️</a></p>
 
 ---
 

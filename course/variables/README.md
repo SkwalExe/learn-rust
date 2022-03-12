@@ -63,7 +63,7 @@ There are 6 dogs 🐕
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/variable-data-types">Next Section ⏭️</a></p>
+<p align="right"><a href="../variable-data-types">Next Section ⏭️</a></p>
 
 ---
 

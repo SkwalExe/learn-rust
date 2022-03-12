@@ -1,13 +1,15 @@
 # Table of contents📚
-- [What is a reference ❔](#what-is-a-reference)
-- [How to create a reference ❔](#how-to-create-a-reference)
-- [How to use a reference 🤹](#how-to-use-a-reference)
-- [Modifying a reference ✏️](#modifying-a-reference)
-    - [Firstly](#firstly)
-    - [Secondly](#secondly)
-- [Warning ⚠️](#warning)
-    - [Firstly](#firstly)
-    - [Secondly](#secondly)
+- [What is a reference❔](#what-is-a-reference)
+- [How to create a reference❔](#how-to-create-a-reference)
+- [How to use a reference🤹](#how-to-use-a-reference)
+- [Modifying a reference✏️](#modifying-a-reference️)
+  - [Firstly](#firstly)
+  - [Secondly](#secondly)
+    - [**Before**](#before)
+    - [**After**](#after)
+- [Warning⚠️](#warning️)
+  - [Firstly](#firstly-1)
+  - [Secondly](#secondly-1)
 
 # References🔗
 ## What is a reference❔
@@ -113,7 +115,7 @@ We will encounter an error because the `println!` macro borrows the variable `us
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/structs">Next Section ⏭️</a></p>
+<p align="right"><a href="../structs">Next Section ⏭️</a></p>
 
 
 ---

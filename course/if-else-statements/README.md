@@ -8,14 +8,14 @@
 ## comparison operators
 The comparison operators are used to compare two values.
 
-| Operator | Description |  
-| -------- | ----------- |
-| == | equal to |
-| != | not equal to |
-| > | greater than |
-| < | less than |
-| >= | greater than or equal to |
-| <= | less than or equal to |
+| Operator | Description              |
+| -------- | ------------------------ |
+| ==       | equal to                 |
+| !=       | not equal to             |
+| >        | greater than             |
+| <        | less than                |
+| >=       | greater than or equal to |
+| <=       | less than or equal to    |
 
 ## if
 Imagine that you are a programmer and you have to write a program that will tell if the value of a variable is positive
@@ -85,7 +85,7 @@ Good night 🛌
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/infinite-loops">Next Section ⏭️</a></p>
+<p align="right"><a href="../infinite-loops">Next Section ⏭️</a></p>
 
 
 ---

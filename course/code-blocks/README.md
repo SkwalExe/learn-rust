@@ -40,7 +40,7 @@ So the second sock disappears when the code block ends.
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/shadowing" target="_blank">Next Section ⏭️</a></p>
+<p align="right"><a href="../shadowing" target="_blank">Next Section ⏭️</a></p>
 
 ---
 

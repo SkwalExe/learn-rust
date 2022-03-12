@@ -84,7 +84,7 @@ And we can see that we have an army of penguins 🔫🐧.
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/struct-methods">Next Section ⏭️</a></p>
+<p align="right"><a href="../struct-methods">Next Section ⏭️</a></p>
 
 
 ---

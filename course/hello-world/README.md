@@ -1,6 +1,6 @@
 # Table of Contents📚
 - [Declaring a function](#declaring-a-function)
-- [Printing a message 💬](#printing-a-message)
+- [Printing a message💬](#printing-a-message)
 - [Compiling and running a program🏃](#compiling-and-running-a-program)
 
 # Hello world👋
@@ -60,7 +60,7 @@ $ ./main
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world-cargo">Next Section ⏭️</a></p>
+<p align="right"><a href="../hello-world-cargo">Next Section ⏭️</a></p>
 
 ---
 

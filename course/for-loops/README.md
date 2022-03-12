@@ -104,7 +104,7 @@ I love 🍌 Bananas at index 2
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/enum-types">Next Section ⏭️</a></p>
+<p align="right"><a href="../enum-types">Next Section ⏭️</a></p>
 
 
 ---

@@ -67,17 +67,17 @@ match animal {
     _ => println!("🤖"),
 }
 ```
-| value | Output |
-|-------|--------|
-| `Animal::Monkey` | 🐒 |
-| `Animal::Dog` | 🐶 |
-| `Animal::Unicorn` | 🦄 |
-| Other | 🤖 |
+| value             | Output |
+| ----------------- | ------ |
+| `Animal::Monkey`  | 🐒      |
+| `Animal::Dog`     | 🐶      |
+| `Animal::Unicorn` | 🦄      |
+| Other             | 🤖      |
 
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/constants">Next Section ⏭️</a></p>
+<p align="right"><a href="../constants">Next Section ⏭️</a></p>
 
 
 ---

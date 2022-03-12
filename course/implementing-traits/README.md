@@ -60,7 +60,7 @@ Hi, my name is Léopold, I'm 13 years old and I live in France 🇫🇷. I work 
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/vectors">Next Section ⏭️</a></p>
+<p align="right"><a href="../vectors">Next Section ⏭️</a></p>
 
 
 ---
