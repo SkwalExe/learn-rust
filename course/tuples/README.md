@@ -10,6 +10,8 @@ A tuple is a collection of values that can be of different types.
 > ℹ️ Tuples are usually used to return multiple values from a function.
 
 > ℹ️ Tuples can contain other tuples.
+
+
 ## Declaring a tuple
 A tuple can be declared with the following syntax:
 ```rust

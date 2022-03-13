@@ -51,6 +51,8 @@ Hello 🌍
 ## the continue keyword➡️
 The `continue` keyword allows us to skip the current iteration of the loop and continue with the next one.
 > ℹ️ an iteration is a single execution of the loop body.
+
+
 Imagine that we want to print hello 5 times, but we want to skip the second one.
 ```rust
 let mut count = 0;

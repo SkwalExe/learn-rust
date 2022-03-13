@@ -1,10 +1,10 @@
 # Table of Contents📚
-- [What is an enum type ❓](#what-is-an-enum-type)
+- [What is an enum type❓](#what-is-an-enum-type)
 - [Declaring an enum type](#declaring-an-enum-type)
 - [Matching on an enum](#matching-on-an-enum)
-    - [What is a match expression ❓](#what-is-a-match-expression)
-    - [Usage](#usage)
-    - [Matching on an enum](#matching-on-an-enum)
+  - [What is a match expression❓](#what-is-a-match-expression)
+  - [Usage](#usage)
+  - [Matching on an enum](#matching-on-an-enum-1)
     
 
 # Enum types
@@ -57,6 +57,7 @@ match variable {
 > ℹ️ We can ignore the `{}` if wa expect only one line of code.
 
 > ℹ️ The `_` is a catch all case that is used when no other cases match.
+
 ### Matching on an enum
 We can use the `match` keyword to match on an enum.
 ```rust

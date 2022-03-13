@@ -19,6 +19,8 @@ let mut string_vec: Vec<String> = Vec::new();
 > ℹ️ We have to make the vector mutable to be able change its elements.
 
 > ℹ️ We use the `Vec::new()` method to create an empty vector.
+
+
 ## Declaring a vector with elements
 Declaring a vector with default values is much easier.
 And we don't need to specify the type of the elements.
@@ -26,6 +28,8 @@ And we don't need to specify the type of the elements.
 let mut string_vec = vec!["Hello", "World"];
 ```
 > ℹ️ We use the `vec!` macro to create a vector with the given elements.
+
+
 ## Accessing elements
 ```rust
 let mut string_vec = vec!["Hello", "World"];

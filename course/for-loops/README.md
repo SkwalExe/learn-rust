@@ -1,11 +1,11 @@
 # Table of Contents📚
-- [What is a for loop ❓](#what-is-a-for-loop)
-- [The `for` keyword 🔑](#the-for-keyword)
+- [What is a for loop❓](#what-is-a-for-loop)
+- [The for keyword🔑](#the-for-keyword)
 - [Vector iteration](#vector-iteration)
-    - [What is a vector ❓](#what-is-a-vector)
-    - [Declaring a vector](#declaring-a-vector)
-    - [Iterating over a vector](#iterating-over-a-vector)
-    - [Iterating over a vector with index 🔢](#iterating-over-a-vector-with-index)
+  - [What is a vector❓](#what-is-a-vector)
+  - [Declaring a vector](#declaring-a-vector)
+  - [Iterating over a vector](#iterating-over-a-vector)
+  - [Iterating over a vector with index🔢](#iterating-over-a-vector-with-index)
 
 
 # For loops🔢
@@ -77,6 +77,7 @@ My 💫 favorite animal 💫 is the 🐕 Dog
 My 💫 favorite animal 💫 is the 🦄 Unicorn
 ```
 > ℹ️ We use the `iter()` method to get an iterator over the vector and to prevent the ownership of the vector from being moved and being able to use it after the loop 
+
 ### Iterating over a vector with index🔢
 It is possible to iterate over a vector knowing the index of the current element.
 

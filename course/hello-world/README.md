@@ -38,6 +38,8 @@ fn main() {
 ```
 
 > ℹ️ All instructions end with a semicolon `;`
+
+
 ## Compiling and running a program🏃
 Now that we have coded our program, we will compile it and run it.
 
