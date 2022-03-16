@@ -84,11 +84,12 @@ Output:
 ```
 I Rust 💖
 ```
-<!--
+
+
 ---
 
-<p align="right"><a href="../vectors">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="../reading-a-file">Next Section ⏭️</a></p>
+
 
 ---
 

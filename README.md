@@ -254,6 +254,16 @@ Before starting to learn a programming language, you need to understand the basi
 
 </details>
 
+
+<details>
+    <summary>25 - <a href="course/reading-a-file" >Reading a file 📖</a></summary>
+
+- [The `use` keyword](course/reading-a-file#the-use-keyword)
+- [The `open` and `expect` methods](course/reading-a-file#the-open-and-expect-methods)
+- [The `read_to_string` method](course/reading-a-file#the-read_to_string-method)
+  
+</details>
+
 # Have a question, want to show your project ?
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
 ![discussion](images/discussions.png)
