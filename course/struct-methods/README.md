@@ -110,7 +110,7 @@ Léopold is not an adult ⛔
 
 ---
 
-<p align="right"><a href="../strings">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../strings">Next Section ⏭️</a></p>
 
 ---
 

@@ -19,7 +19,7 @@ The Rust installer is available on [Rustup.rs](https://rustup.rs/).
 
 ---
 
-<p align="right"><a href="../hello-world">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../hello-world">Next Section ⏭️</a></p>
 
 ---
 

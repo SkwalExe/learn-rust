@@ -57,7 +57,7 @@ black.0 = 255;
 
 ---
 
-<p align="right"><a href="../pass-by-reference">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../pass-by-reference">Next Section ⏭️</a></p>
 
 ---
 

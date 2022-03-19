@@ -53,7 +53,7 @@ My Worm is called Wormy 🪱
 
 ---
 
-<p align="right"><a href="../references">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../references">Next Section ⏭️</a></p>
 
 ---
 

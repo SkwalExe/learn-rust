@@ -45,7 +45,7 @@ We can also use the `break` and `continue` keywords as seen in the [Infinite Loo
 
 ---
 
-<p align="right"><a href="../for-loops">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../for-loops">Next Section ⏭️</a></p>
 
 ---
 

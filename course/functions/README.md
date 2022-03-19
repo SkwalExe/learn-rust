@@ -87,7 +87,7 @@ Output:
 
 ---
 
-<p align="right"><a href="../code-blocks">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../code-blocks">Next Section ⏭️</a></p>
 
 ---
 

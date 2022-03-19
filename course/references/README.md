@@ -142,7 +142,7 @@ We will encounter an error because the `println!` macro borrows the variable `us
 
 ---
 
-<p align="right"><a href="../structs">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../structs">Next Section ⏭️</a></p>
 
 ---
 

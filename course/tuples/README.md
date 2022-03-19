@@ -61,7 +61,7 @@ In the zoo, there is a 🦍 Gorilla, a 🦊 Fox, a 🦓 Zebra, and an 🐘 Eleph
 
 ---
 
-<p align="right"><a href="../functions">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../functions">Next Section ⏭️</a></p>
 
 ---
 

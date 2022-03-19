@@ -95,7 +95,7 @@ match animal {
 
 ---
 
-<p align="right"><a href="../constants">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../constants">Next Section ⏭️</a></p>
 
 ---
 

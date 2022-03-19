@@ -79,7 +79,7 @@ There are 6 dogs 🐕
 
 ---
 
-<p align="right"><a href="../variable-data-types">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../variable-data-types">Next Section ⏭️</a></p>
 
 ---
 

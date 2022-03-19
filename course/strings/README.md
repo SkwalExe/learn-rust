@@ -125,7 +125,7 @@ Hello world
 
 ---
 
-<p align="right"><a href="../implementing-traits">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../implementing-traits">Next Section ⏭️</a></p>
 
 ---
 

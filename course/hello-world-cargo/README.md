@@ -93,7 +93,7 @@ $ cargo run
 
 ---
 
-<p align="right"><a href="../variables">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../variables">Next Section ⏭️</a></p>
 
 ---
 
