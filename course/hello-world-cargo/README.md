@@ -1,4 +1,5 @@
 # Table of Contents📚
+
 - [What is cargo❓](#what-is-cargo)
 - [Creating a new project🆕](#creating-a-new-project)
 - [Compiling and running a program with cargo🏃](#compiling-and-running-a-program-with-cargo)
@@ -6,17 +7,25 @@
   - [Compiling and running🏃](#compiling-and-running)
 
 # Hello world with cargo🚢
+
 ## What is cargo❓
+
 Cargo is a **Rust package manager**. It is used to manage dependencies and build Rust projects.
+
 ## Creating a new project🆕
+
 We will create a new project called `hello-world-cargo`, to do this, we will use the following command.
+
 > ℹ️ the `--bin` parameter flags the project as an application, not a library.
+
 ```bash
 $ cargo new hello-world-cargo --bin
 
 > Created binary (application) `hello-world-cargo` package.
 ```
+
 This command created a new folder `📂 hello-world-cargo` in the current directory.
+
 This folder contains a `📄 Cargo.toml` file, a `📂 src` folder and a `📄 main.rs` file.
 
 ```bash
@@ -40,7 +49,6 @@ fn main() {
 }
 ```
 
-
 | File           | Description                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------- |
 | `📄 Cargo.toml` | The Cargo manifest file, this file contains all the dependencies and the application name.               |
@@ -49,16 +57,17 @@ fn main() {
 | `📂 .git`       | The git folder, this folder contains all the git files, you can ignore this folder if you don't use git. |
 | `📄 .gitignore` | The git ignore file, this file contains all the files that should be ignored when committing.            |
 
-
-
-
 ## Compiling and running a program with cargo🏃
+
 ### Just compiling
+
 To compile the program, we will use the `cargo build` command.
+
 ```bash
 # hello-world-cargo 📂
 $ cargo build
 ```
+
 This command will compile the program and create an executable file called `📄 hello-world-cargo` in the new `📂 target/debug` folder.
 
 ```bash
@@ -66,24 +75,26 @@ This command will compile the program and create an executable file called `📄
 $ ./hello-world-cargo
 > Hello, world 👋
 ```
+
 ![](1.png)
+
 ### Compiling and running🏃
+
 To compile and run the program, we will use the `cargo run` command.
+
 ```bash
 # hello-world-cargo 📂
 $ cargo run
 ...
 > Hello, world 👋
 ```
+
 ![](2.png)
-
-
 
 ---
 
 <p align="right"><a href="../variables">Next Section ⏭️</a></p>
 
 ---
-
 
 <p align="right">Course created by <a href="https://github.com/SkwalExe/" target="_blank">SkwalExe</a> and inspired by <a href="https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL" target="_blank">Dcode</a></p>

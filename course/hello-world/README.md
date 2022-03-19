@@ -1,10 +1,13 @@
 # Table of Contents📚
+
 - [Declaring a function](#declaring-a-function)
 - [Printing a message💬](#printing-a-message)
 - [Compiling and running a program🏃](#compiling-and-running-a-program)
 
 # Hello world👋
+
 ## Declaring a function
+
 We will start this course by creating an hello world program with the rust 🦀 programming language.
 
 First, we create a new folder `📂 hello-world` and a file `📄 main.rs` inside it.
@@ -39,8 +42,8 @@ fn main() {
 
 > ℹ️ All instructions end with a semicolon `;`
 
-
 ## Compiling and running a program🏃
+
 Now that we have coded our program, we will compile it and run it.
 
 to compile the program, we can use the `rustc` command.
@@ -48,6 +51,7 @@ to compile the program, we can use the `rustc` command.
 ```bash
 $ rustc main.rs
 ```
+
 > ℹ️ `$` : command
 
 Running this command created an executable file called `📄 main` in the current directory that we can run by typing `./main`.
@@ -56,6 +60,7 @@ Running this command created an executable file called `📄 main` in the curren
 $ ./main
 > Hello, world 👋
 ```
+
 > ℹ️ `>` : Output of the command
 
 ![](1.png)
@@ -65,6 +70,5 @@ $ ./main
 <p align="right"><a href="../hello-world-cargo">Next Section ⏭️</a></p>
 
 ---
-
 
 <p align="right">Course created by <a href="https://github.com/SkwalExe/" target="_blank">SkwalExe</a> and inspired by <a href="https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL" target="_blank">Dcode</a></p>

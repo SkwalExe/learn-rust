@@ -1,18 +1,24 @@
 # Table of Contents📚
+
 - [the loop keyword♾️](#the-loop-keyword️)
 - [the break keyword🛑](#the-break-keyword)
 - [the continue keyword➡️](#the-continue-keyword️)
 
 # Infinite loop♾️
+
 ## the loop keyword♾️
+
 Loops allow us to execute a block of code infinitely until we specify when to stop it.
 For example, we can use the `loop` keyword to print hello infinitely.
+
 ```rust
 loop {
     println!("Hello 🌍");
 }
 ```
+
 Output:
+
 ```
 Hello 🌍
 Hello 🌍
@@ -23,9 +29,13 @@ Hello 🌍
 Hello 🌍
 ...
 ```
+
 ## the break keyword🛑
+
 The `break` keyword allows us to stop the execution of a loop.
+
 Imagine that we want to print hello 5 times, and then stop the execution of the loop.
+
 ```rust
 let mut count = 0;
 
@@ -38,9 +48,11 @@ loop {
     }
 }
 ```
+
 We add 1 to the variable `count` each time we print hello, and then when `count` is equal to 5, we stop the execution of the loop.
 
 Output:
+
 ```
 Hello 🌍
 Hello 🌍
@@ -48,12 +60,15 @@ Hello 🌍
 Hello 🌍
 Hello 🌍
 ```
+
 ## the continue keyword➡️
+
 The `continue` keyword allows us to skip the current iteration of the loop and continue with the next one.
+
 > ℹ️ an iteration is a single execution of the loop body.
 
-
 Imagine that we want to print hello 5 times, but we want to skip the second one.
+
 ```rust
 let mut count = 0;
 
@@ -77,6 +92,7 @@ loop {
 We add 1 to the variable `count` each time we print hello, and then when `count` is equal to 2, we skip the current iteration and continue with the next one.
 
 Output:
+
 ```
 Hello, user1 👋
 Hello, user3 👋

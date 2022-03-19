@@ -1,14 +1,18 @@
 # Table of Contents📚
+
 - [What is a shadowing❓](#what-is-a-shadowing)
 - [Usage](#usage)
 
-
 # Shadowing👥
+
 ## What is a shadowing❓
+
 When we modify a variable inside a code block, the change will remain outside it, but it is possible to make the variable back to its original value when the code block ends. This is called shadowing.
 
 ## Usage
+
 For example, we can use a code block to modify a variable:
+
 ```rust
 let worm_name = "Wormie 🪱";
 
@@ -19,7 +23,9 @@ let worm_name = "Wormie 🪱";
 
 println!("My Worm is called {}", worm_name);
 ```
+
 Output:
+
 ```
 My Worm is called Wormy 🪱
 My Worm is called Wormy 🪱
@@ -37,13 +43,13 @@ let worm_name = "Wormie 🪱";
 
 println!("My Worm is called {}", worm_name);
 ```
+
 Output:
+
 ```
 My Worm is called Wormie 🪱
 My Worm is called Wormy 🪱
 ```
-
-
 
 ---
 

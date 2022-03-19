@@ -1,12 +1,18 @@
 # Table of Contents📚
+
 - [What is a code block❓](#what-is-a-code-block)
 - [Usage](#usage)
 
 # Code Blocks🟪
+
 ## What is a code block❓
+
 A code block is a piece of code between two `{}` that is kind of isolated from the rest of the code, but it can still access variables and functions from outside the code block.
+
 ## Usage
+
 For example, we can use a code block to define and print a variable:
+
 ```rust
 let sock1 = "First sock 🧦";
 
@@ -15,12 +21,15 @@ let sock1 = "First sock 🧦";
     println!("I have the {} and the {}", sock1, sock2);
 }
 ```
+
 Output:
+
 ```
 I have the First sock 🧦 and the Second sock 🧦
 ```
 
 Everything is working as expected, but now, let's try to print the values of `sock1` and `sock2` outside the code block:
+
 ```rust
 let sock1 = "First sock 🧦";
 
@@ -30,6 +39,7 @@ let sock1 = "First sock 🧦";
 
 println!("I have the {} and the {}", sock1, sock2);
 ```
+
 Output:
 
 ![](1.png)
