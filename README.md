@@ -2,6 +2,8 @@
 
 ![banner](images/banner.png)
 
+Free Rust 🦀 course in English 🇬🇧
+
 This course was inspired by [Dcode](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
 
 Before starting to learn a programming language, you need to understand the basics of programming, **the algorithmics**. 🤓
@@ -37,13 +39,21 @@ Before starting to learn a programming language, you need to understand the basi
 1. [Reading a file 📖](course/reading-a-file)
 
 # Have a question, want to show your project ?
+
 ### **You can open the Discussion 💬 tab on the top right corner of this page.**
+
 ![discussion](images/discussions.png)
+
 # final
+
 If you have any probleme, don't hesitate to open an issue
+
 # contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 ## Todo
+
 - [ ] Add a section about the Rust language
 - [ ] Add installation instructions for macOS
 
