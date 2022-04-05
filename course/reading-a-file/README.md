@@ -71,11 +71,10 @@ Output:
 📄 file content : World, Hello 👋
 ```
 
-<!--
+
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../reading-a-file">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../command-line-arguments">Next Section ⏭️</a></p>
 
 ---
 
