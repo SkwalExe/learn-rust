@@ -37,6 +37,7 @@ Before starting to learn a programming language, you need to understand the basi
 1. [Implementing traits](course/implementing-traits)
 1. [Vectors](course/vectors)
 1. [Reading a file 📖](course/reading-a-file)
+2. [Command line arguments💬](course/command-line-arguments)
 
 # Have a question, want to show your project ?
 
