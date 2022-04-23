@@ -101,13 +101,9 @@ $ cargo run -- Skwal
 Hello Skwal
 ```
 
-
-
-<!--
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../command-line-arguments">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../writing-to-a-file">Next Section ⏭️</a></p>
 
 ---
 
