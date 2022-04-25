@@ -39,7 +39,7 @@ Before starting to learn a programming language, you need to understand the basi
 1. [Reading a file 📖](course/reading-a-file)
 1. [Command line arguments💬](course/command-line-arguments)
 1. [Writing to a file 📝](course/writing-to-a-file)
-
+1. [Defining traits](course/defining-traits)
 
 # Have a question, want to show your project ?
 
