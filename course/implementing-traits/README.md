@@ -1,6 +1,7 @@
 # Table of contents📚
 
 - [What is a trait❔](#what-is-a-trait)
+  - [Example](#example)
 - [Implementing a trait](#implementing-a-trait)
 - [Using traits](#using-traits)
 
@@ -10,6 +11,30 @@
 
 A trait is a set of methods common to each type. 
 It is similar to an interface in other languages.
+
+### Example
+
+The `std::fmt::Display` trait is a trait that defines how to display a type.
+
+```rust
+println!("{}", 42);
+```
+
+Here, `42` is a value of type `i32`, and cannot be printed directly because it is not a string.
+
+It first needs to be formatted into a string.
+
+And that is what the `Display` trait does.
+
+When we run 
+
+```rust
+println!("{}", 42);
+```
+
+The `println!` macro will call the `Display` trait implementation for `i32` to format the value into a string and print it.
+
+This is the same for other types, such as `f32`, Vectors...
 
 ## Implementing a trait
 

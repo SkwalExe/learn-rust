@@ -50,7 +50,7 @@ Now if we run the program again, we can see that the file contains the text `Hel
 
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../writing-to-a-file">Next Section ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../defining-traits">Next Section ⏭️</a></p>
 
 ---
 
