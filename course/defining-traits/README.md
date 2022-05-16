@@ -34,11 +34,9 @@ Result:
 Hi, my name is my_string ! I'm a String and my value is Hello world!
 ```
 
-<!--
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../defining-traits">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://skwalexe.github.io/learn-rust/">Home 🏠</a> - <a href="../pattern-matching">Next Section ⏭️</a></p>
 
 ---
 
