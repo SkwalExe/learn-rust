@@ -41,6 +41,7 @@ Before starting to learn a programming language, you need to understand the basi
 1. [Writing to a file 📝](course/writing-to-a-file)
 1. [Defining traits](course/defining-traits)
 1. [Pattern matching 🔍](course/pattern-matching)
+1. [Reading user input ⌨️](course/reading-user-input)
 
 # Have a question, want to show your project ?
 
